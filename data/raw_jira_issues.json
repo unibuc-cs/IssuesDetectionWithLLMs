@@ -1,0 +1,17 @@
+[
+  {
+    "id": "JIRA-101",
+    "summary": "Crash on level transition",
+    "description": "Crash reported during level completion."
+  },
+  {
+    "id": "JIRA-102",
+    "summary": "Slow inventory UI",
+    "description": "Inventory menu loads slowly under certain conditions."
+  },
+  {
+    "id": "JIRA-103",
+    "summary": "Matchmaking delay",
+    "description": "Users report long wait times in multiplayer matchmaking."
+  }
+]
