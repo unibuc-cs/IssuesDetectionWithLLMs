@@ -1,4 +1,4 @@
-# CyberPlaybookLLM - Automated Issue Tracking from User Feedback
+# Semantic Feedback Processing with LLM - Automated Issue Tracking from User Feedback
 
 This repository implements the core components described in the paper:
 **"Semantic Feedback Processing with LLMs: Automating Issue Detection and Prioritization in DevOps", KES 2025.**
