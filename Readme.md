@@ -132,5 +132,6 @@ To deploy the model as an Azure Function App using Docker:
 ## Citation
 
 If you use this work, please cite our paper:
-
-Ciprian Paduraru, Miruna Zavelca, Alin Stefanescu, “AI/NLP for Automated Issue Tracking and Feedback in DevOps”, KES 2025
+```
+Ciprian Paduraru, Miruna Zavelca, Alin Stefanescu, "Semantic Feedback Processing with LLMs: Automating Issue Detection and Prioritization in DevOps", KES 2025.
+```
