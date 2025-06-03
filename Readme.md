@@ -3,7 +3,7 @@
 This repository implements the core components described in the paper:
 **"Semantic Feedback Processing with LLMs: Automating Issue Detection and Prioritization in DevOps", KES 2025.**
 
-The system automatically links user feedback (e.g., Reddit posts) to existing Jira issues or generates new ones using a fine-tuned LLaMA 3 model. The pipeline includes summarization, sentiment filtering, semantic matching, and CACAO playbook generation. Optionally, it can deployed to Azure to your workspace.
+The system automatically links user feedback (e.g., Reddit posts) to existing Jira issues or generates new ones using a fine-tuned LLaMA 3 model (or Bert, as a comparison). The pipeline includes summarization, sentiment filtering, semantic matching, and CACAO playbook generation. Optionally, it can deployed to Azure to your workspace.
 
 
 ---
